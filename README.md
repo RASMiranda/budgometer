@@ -3,5 +3,5 @@ budgometer
 
 Personal Budget Application
 
-## Model
+## model
 [https://repository.genmymodel.com/34.ruimiranda/budgometer](https://repository.genmymodel.com/34.ruimiranda/budgometer)
